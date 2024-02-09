@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <addon id="plugin.video.gomoviesmb" name="GOmovies.sx" version="0.2" provider-name="mbebe">
 	<requires>
-		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="xbmc.python" version="2.0.0" />
 		<import addon="script.module.requests" />
 		<import addon="script.module.six"/>
 		<import addon="script.module.resolveurl" version="5.0.00"/>
